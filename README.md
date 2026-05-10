@@ -20,3 +20,24 @@ This is a rule-based AI chatbot developed using Python as part of my CODSOFT Art
 Task 1: Chatbot with Rule-Based Responses
 
 ✨ Developed by Aarush Sawant
+
+---
+
+# 🎮 Task 2: Tic-Tac-Toe Game
+
+A simple command-line Tic-Tac-Toe game developed using Python.
+
+## 🚀 Features
+- Two-player gameplay
+- Win detection
+- Draw handling
+- Input validation
+
+## ▶️ How to Run
+
+Run the file:
+tictactoe.py
+or 
+tictactoeAI.py
+## 📌 Technologies Used
+- Python
